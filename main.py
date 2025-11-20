@@ -1,7 +1,10 @@
 import pandas as pd
+
+
+# load dataset
 df = pd.read_csv('ipl_2025_deliveries.csv')
 
-
+# Data Cleaning and Transformation
 if 'total_runs' not in df.columns:
     df['total_runs'] = df['runs_of_bat'] + df['extras']
 
@@ -80,7 +83,7 @@ final_match_df = match_data[
      'Score_1', 'Score_2', 'Wickets_1', 'Wickets_2', 'winner']
 ]
 
-
+# Cleaning data to create output a new file
 output_file = 'ipl_2025_cleaned_data.csv'
 final_match_df.to_csv(output_file, index=False)
 
