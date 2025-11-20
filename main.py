@@ -81,7 +81,7 @@ final_match_df = match_data[
 ]
 
 
-output_file = 'ipl_2025_match_data.csv'
+output_file = 'ipl_2025_cleaned_data.csv'
 final_match_df.to_csv(output_file, index=False)
 
 
