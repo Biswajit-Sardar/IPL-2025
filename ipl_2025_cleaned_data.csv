@@ -1,0 +1,75 @@
+match_id,date,venue,Team_1_Batting_First,Team_2_Batting_Second,Score_1,Score_2,Wickets_1,Wickets_2,winner
+202501,2025-03-22,"Eden Gardens, Kolkata",KKR,RCB,174.0,177.0,8.0,3.0,RCB
+202502,2025-03-23,"Rajiv Gandhi International Stadium, Hyderabad",SRH,RR,285.0,242.0,6.0,6.0,SRH
+202503,2025-03-23,"MA Chidambaram Stadium, Chennai",MI,CSK,155.0,158.0,9.0,6.0,CSK
+202504,2025-03-24,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",LSG,DC,209.0,211.0,8.0,9.0,DC
+202505,2025-03-25,"Narendra Modi Stadium, Ahmedabad",PBKS,GT,242.0,231.0,5.0,5.0,PBKS
+202506,2025-03-26,"Barsapara Cricket Stadium, Guwahati",RR,KKR,150.0,152.0,9.0,2.0,KKR
+202507,2025-03-27,"Rajiv Gandhi International Stadium, Hyderabad",SRH,LSG,188.0,192.0,9.0,5.0,LSG
+202508,2025-03-28,"MA Chidambaram Stadium, Chennai",RCB,CSK,196.0,146.0,7.0,8.0,RCB
+202509,2025-03-29,"Narendra Modi Stadium, Ahmedabad",GT,MI,195.0,160.0,8.0,6.0,GT
+202510,2025-03-30,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",SRH,DC,163.0,166.0,10.0,3.0,DC
+202511,2025-03-30,"Barsapara Cricket Stadium, Guwahati",RR,CSK,182.0,176.0,9.0,6.0,RR
+202512,2025-03-31,"Wankhede Stadium, Mumbai",KKR,MI,116.0,121.0,10.0,2.0,MI
+202513,2025-04-01,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,PBKS,171.0,177.0,7.0,2.0,PBKS
+202514,2025-04-02,"M.Chinnaswamy Stadium, Bengaluru",RCB,GT,169.0,170.0,8.0,2.0,GT
+202515,2025-04-03,"Eden Gardens, Kolkata",KKR,SRH,200.0,120.0,6.0,10.0,KKR
+202516,2025-04-04,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,MI,203.0,191.0,8.0,5.0,LSG
+202517,2025-04-05,"MA Chidambaram Stadium, Chennai",DC,CSK,183.0,158.0,6.0,5.0,DC
+202518,2025-04-05,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh",RR,PBKS,205.0,153.0,4.0,9.0,RR
+202519,2025-04-06,"Rajiv Gandhi International Stadium, Hyderabad",SRH,GT,152.0,153.0,8.0,3.0,GT
+202520,2025-04-07,"Wankhede Stadium, Mumbai",RCB,MI,221.0,208.0,5.0,9.0,RCB
+202521,2025-04-08,"Eden Gardens, Kolkata",LSG,KKR,237.0,229.0,3.0,7.0,LSG
+202522,2025-04-08,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh",PBKS,CSK,219.0,207.0,6.0,5.0,PBKS
+202523,2025-04-09,"Narendra Modi Stadium, Ahmedabad",GT,RR,217.0,158.0,6.0,10.0,GT
+202524,2025-04-10,"M.Chinnaswamy Stadium, Bengaluru",RCB,DC,162.0,169.0,7.0,4.0,DC
+202525,2025-04-11,"MA Chidambaram Stadium, Chennai",CSK,KKR,103.0,107.0,9.0,2.0,KKR
+202526,2025-04-12,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",GT,LSG,180.0,186.0,6.0,4.0,LSG
+202527,2025-04-12,"Rajiv Gandhi International Stadium, Hyderabad",PBKS,SRH,245.0,247.0,6.0,2.0,SRH
+202528,2025-04-13,"Sawai Mansingh Stadium, Jaipur",RR,RCB,173.0,175.0,4.0,1.0,RCB
+202529,2025-04-13,"Arun Jaitley Stadium, Delhi",MI,DC,205.0,193.0,5.0,10.0,MI
+202530,2025-04-14,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,CSK,166.0,167.0,7.0,5.0,CSK
+202531,2025-04-15,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh",PBKS,KKR,111.0,95.0,10.0,10.0,PBKS
+202532,2025-04-16,"Arun Jaitley Stadium, Delhi",DC,RR,186.0,188.0,5.0,5.0,RR
+202533,2025-04-17,"Wankhede Stadium, Mumbai",SRH,MI,162.0,166.0,5.0,6.0,MI
+202534,2025-04-18,"M.Chinnaswamy Stadium, Bengaluru",RCB,PBKS,95.0,98.0,9.0,5.0,PBKS
+202535,2025-04-19,"Narendra Modi Stadium, Ahmedabad",DC,GT,201.0,204.0,8.0,3.0,GT
+202536,2025-04-19,"Sawai Mansingh Stadium, Jaipur",LSG,RR,180.0,178.0,5.0,5.0,LSG
+202537,2025-04-20,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh",PBKS,RCB,157.0,159.0,6.0,3.0,RCB
+202538,2025-04-20,"Wankhede Stadium, Mumbai",CSK,MI,176.0,176.0,5.0,1.0,Tie
+202539,2025-04-21,"Eden Gardens, Kolkata",GT,KKR,198.0,159.0,3.0,8.0,GT
+202540,2025-04-22,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,DC,159.0,161.0,6.0,2.0,DC
+202541,2025-04-23,"Rajiv Gandhi International Stadium, Hyderabad",SRH,MI,143.0,146.0,8.0,3.0,MI
+202542,2025-04-24,"M.Chinnaswamy Stadium, Bengaluru",RCB,RR,205.0,194.0,5.0,9.0,RCB
+202543,2025-04-25,"MA Chidambaram Stadium, Chennai",CSK,SRH,154.0,155.0,10.0,5.0,SRH
+202544,2025-04-26,"Eden Gardens, Kolkata",PBKS,KKR,201.0,7.0,4.0,0.0,PBKS
+202545,2025-04-27,"Wankhede Stadium, Mumbai",MI,LSG,214.0,161.0,7.0,10.0,MI
+202546,2025-04-27,"Arun Jaitley Stadium, Delhi",DC,RCB,162.0,165.0,8.0,4.0,RCB
+202547,2025-04-28,"Sawai Mansingh Stadium, Jaipur",GT,RR,208.0,210.0,4.0,2.0,RR
+202548,2025-04-29,"Arun Jaitley Stadium, Delhi",KKR,DC,203.0,190.0,9.0,9.0,KKR
+202549,2025-04-30,"MA Chidambaram Stadium, Chennai",CSK,PBKS,190.0,194.0,10.0,6.0,PBKS
+202550,2025-05-01,"Sawai Mansingh Stadium, Jaipur",MI,RR,217.0,117.0,2.0,10.0,MI
+202551,2025-05-02,"Narendra Modi Stadium, Ahmedabad",GT,SRH,224.0,186.0,6.0,6.0,GT
+202552,2025-05-03,"M.Chinnaswamy Stadium, Bengaluru",RCB,CSK,213.0,211.0,5.0,5.0,RCB
+202553,2025-05-04,"Eden Gardens, Kolkata",KKR,RR,204.0,205.0,4.0,8.0,RR
+202554,2025-05-04,"Himachal Pradesh Cricket Association Stadium, Dharamsala",PBKS,LSG,236.0,199.0,5.0,7.0,PBKS
+202555,2025-05-05,"Rajiv Gandhi International Stadium, Hyderabad",DC,,133.0,,7.0,,Unknown
+202556,2025-05-06,"Wankhede Stadium, Mumbai",MI,GT,155.0,145.0,8.0,7.0,MI
+202557,2025-05-07,"Eden Gardens, Kolkata",KKR,CSK,179.0,183.0,6.0,8.0,CSK
+202558,2025-05-08,"Himachal Pradesh Cricket Association Stadium, Dharamsala",PBKS,,122.0,,1.0,,Unknown
+202559,2025-05-18,"Sawai Mansingh Stadium, Jaipur",PBKS,RR,218.0,209.0,5.0,7.0,PBKS
+202560,2025-05-18,"Arun Jaitley Stadium, Delhi",DC,GT,199.0,205.0,3.0,0.0,GT
+202561,2025-05-19,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,SRH,204.0,207.0,7.0,5.0,SRH
+202562,2025-05-20,"Arun Jaitley Stadium, Delhi",CSK,RR,186.0,188.0,8.0,4.0,RR
+202563,2025-05-21,"Wankhede Stadium, Mumbai",MI,DC,180.0,121.0,5.0,10.0,MI
+202564,2025-05-22,"Narendra Modi Stadium, Ahmedabad",LSG,GT,235.0,202.0,2.0,9.0,LSG
+202565,2025-05-23,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",SRH,RCB,231.0,189.0,6.0,10.0,SRH
+202566,2025-05-24,"Sawai Mansingh Stadium, Jaipur",PBKS,DC,206.0,208.0,8.0,4.0,DC
+202567,2025-05-25,"Narendra Modi Stadium, Ahmedabad",CSK,GT,230.0,147.0,5.0,10.0,CSK
+202568,2025-05-25,"Arun Jaitley Stadium, Delhi",SRH,KKR,277.0,168.0,3.0,10.0,SRH
+202569,2025-05-26,"Sawai Mansingh Stadium, Jaipur",MI,PBKS,183.0,187.0,7.0,3.0,PBKS
+202570,2025-05-27,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG,RCB,227.0,230.0,3.0,4.0,RCB
+202571,2025-05-29,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh",PBKS,RCB,101.0,106.0,10.0,2.0,RCB
+202572,2025-05-30,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",MI,GT,227.0,208.0,5.0,6.0,MI
+202573,2025-06-01,"Narendra Modi Stadium, Ahmedabad",MI,PBKS,203.0,207.0,6.0,5.0,PBKS
+202574,2025-06-03,"Narendra Modi Stadium, Ahmedabad",RCB,PBKS,190.0,184.0,9.0,7.0,RCB
